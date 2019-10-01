@@ -2,9 +2,9 @@
 *~
 __pycache__
 myvenv
+note*
 db.sqlite3
 /static
+/assignment
 .DS_Store
 .idea
-.png
-/assignment
