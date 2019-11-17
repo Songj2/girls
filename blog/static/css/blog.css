@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Song Myung', cursive;
+    font-family: 'Yeon Sung', cursive;
 }
 
 .date {
@@ -45,6 +45,9 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+p {
+    font-family: 'Nanum Myeongjo', serif;
+}
 /*h1 a. h2 a {*/
 /*    color: #FCA205;*/
 /*    font-family: 'Lobster';*/
